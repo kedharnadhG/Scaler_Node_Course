@@ -21,7 +21,7 @@ const fs = require('fs')
 // console.log('file has been deleted')
 
 
-// Working with Directories
+//                  Working with Directories
 
 //create a dir
 //fs.mkdirSync('myDirectory')

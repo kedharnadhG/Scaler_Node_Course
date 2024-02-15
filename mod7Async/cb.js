@@ -17,6 +17,7 @@ function cb1(err, data){
     //        console.log(err)
     //}
     console.log(data)
+    // fs.readFile('f2.txt', cb2) //for serial execution of Async code
 }
 
 

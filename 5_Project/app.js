@@ -15,5 +15,5 @@ app.use('/api/students', students)
 app.use('/api/courses', courses)
 
 
-const port = process.env.PORT || 3000
+const port = process.env.PORT || 3002
 app.listen(port, ()=>console.log(`port is running on ${port}`))
